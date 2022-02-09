@@ -31,8 +31,6 @@
 <br />
 ### Connect with me:
 
-[<img align="left" alt="miroslav.hanisko | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="MiroslavHanisko | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="miroslav-hanisko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ten_mirek_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!-- Actual text -->
 
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
