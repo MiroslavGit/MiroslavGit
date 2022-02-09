@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate with other web developers
 - ⚡ Fun fact: I love fintess 💪
 
-**Languages and Tools:**
+#Languages and Tools:
 
 <p align="center">
 
@@ -30,4 +30,4 @@
 
 </p>
 
----
+
