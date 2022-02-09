@@ -1,8 +1,12 @@
 ### Hi there, I'm Miroslav Hanisko 👋 
 
+<br>
+
 ## I'm a student who love learning something new !
 
---
+---
+
+<br>
 
 - 🎯I want to be professional fullstack web developer 
 - 🥅 2022 Goals: Find my first job and start my journey on university
@@ -10,7 +14,11 @@
 - 👯 I’m looking to collaborate with other web developers
 - ⚡ Fun fact: I love fintess 💪
 
-#Languages and Tools:
+---
+
+<br>
+
+##Languages and Tools:
 
 <p align="center">
 
