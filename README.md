@@ -34,7 +34,7 @@
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=MiroslavGit&hide=stars&show_icons=true&theme=chartreuse-dark&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiroslavGit&count_private=true&theme=chartreuse-dark&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiroslavGit&count_private=true&theme=chartreuse-dark&langs_count=10">
 
 </p>
 
