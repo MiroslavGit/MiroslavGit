@@ -10,7 +10,7 @@
 - 🥅 2022 Goals: Find my first job and start my journey on university
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate with other web developers
-- ⚡ Fun fact: I love fintess 💪
+- ⚡ Fun fact: I love fitness 💪
 
 ---
 
