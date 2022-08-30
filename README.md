@@ -21,12 +21,16 @@
 
   <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=ts,js,react,redux,nodejs,express,css,,html,regex)](https://skillicons.dev)
+  ### Frontend
+  [![My Skills](https://skillicons.dev/icons?i=ts,js,react,redux,html,regex)](https://skillicons.dev)
   
-  [![My Skills](https://skillicons.dev/icons?i=materialui,bootstrap)](https://skillicons.dev)
+  ### Backend
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)](https://skillicons.dev)
   
-  [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+  ### Design
+  [![My Skills](https://skillicons.dev/icons?i=materialui,bootstrap,css)](https://skillicons.dev)
   
+  ### Editor
   [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
   
   
