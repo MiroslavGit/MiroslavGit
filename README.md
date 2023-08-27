@@ -6,8 +6,8 @@
 ---
 
 
-- 🎯I want to be professional fullstack web developer 
-- 🥅 2022 Goals: Find my first job and start my journey on university
+- 🎯 I want to be professional fullstack web developer 
+- 🥅 Now i work in CORA GEO, s.r.o. as fronted developer
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate with other web developers
 - ⚡ Fun fact: I love fitness 💪
