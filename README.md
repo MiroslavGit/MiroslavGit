@@ -22,17 +22,19 @@
   <div align="center">
   
   ### Frontend
-  [![My Skills](https://skillicons.dev/icons?i=ts,js,react,redux,html,regex)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=ts,js,react,redux,html,regex,postman)](https://skillicons.dev)
   
   ### Backend
   [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)](https://skillicons.dev)
   
   ### Design
-  [![My Skills](https://skillicons.dev/icons?i=materialui,bootstrap,css)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=figma,materialui,bootstrap,css,sass)](https://skillicons.dev)
   
   ### Editor
   [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-  
+
+  ### Other
+  [![My Skills](https://skillicons.dev/icons?i=c,java,vercel,vite)](https://skillicons.dev)
   
 
 
