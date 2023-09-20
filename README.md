@@ -28,7 +28,7 @@
   [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)](https://skillicons.dev)
   
   ### Design
-  [![My Skills](https://skillicons.dev/icons?i=figma,materialui,bootstrap,css,sass)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=figma,materialui,bootstrap,css,sass,tailwind)](https://skillicons.dev)
   
   ### Editor
   [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
