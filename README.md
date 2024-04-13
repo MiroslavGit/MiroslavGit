@@ -31,7 +31,7 @@
   [![My Skills](https://skillicons.dev/icons?i=figma,materialui,bootstrap,css,sass,tailwind)](https://skillicons.dev)
   
   ### Editor
-  [![My Skills](https://skillicons.dev/icons?i=vscode,vs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev)
 
   ### Other
   [![My Skills](https://skillicons.dev/icons?i=c,java,vercel,vite)](https://skillicons.dev)
