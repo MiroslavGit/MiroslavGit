@@ -7,10 +7,10 @@
 
 
 - 🎯 I want to be professional fullstack web developer 
-- 🥅 Now i work in CORA GEO, s.r.o. as fronted developer
+- 🥅 Now i work in CORA GEO, s.r.o. as programmer
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate with other web developers
-- ⚡ Fun fact: I love fitness 💪
+- ⚡ Fun fact: I love fitness & investing💪
 
 ---
 
