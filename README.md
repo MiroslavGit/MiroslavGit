@@ -34,7 +34,7 @@
   [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea)](https://skillicons.dev)
 
   ### Other
-  [![My Skills](https://skillicons.dev/icons?i=c,java,vercel,vite)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,java,vercel,vite,matlab)](https://skillicons.dev)
   
 
 
