@@ -25,7 +25,7 @@
   [![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,html,regex,postman)](https://skillicons.dev)
   
   ### Backend
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,supabase,mongodb,mysql)](https://skillicons.dev)
   
   ### Design
   [![My Skills](https://skillicons.dev/icons?i=figma,materialui,bootstrap,css,sass,tailwind)](https://skillicons.dev)
