@@ -77,7 +77,7 @@
 ## 🚀 Portfolio  
 
 👉 Check out my personal portfolio website here:  
-🔗 [**miroslavhanisko.vercel.app**]([http://miroslav.great-site.net/](https://miroslavhanisko.vercel.app/)  
+🔗 [**https://miroslavhanisko.vercel.app**](https://miroslavhanisko.vercel.app)  
 
 ---
 
