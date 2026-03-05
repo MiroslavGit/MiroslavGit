@@ -55,8 +55,10 @@ Currently working at **CORA GEO, s.r.o.** as a programmer.
 
 <div align="center">
 
+<!--
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MiroslavGit&show_icons=true&theme=tokyonight&hide=stars&rank_icon=github" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiroslavGit&layout=compact&theme=tokyonight&langs_count=8" />
+-->
 
 <img width="100%" src="https://streak-stats.demolab.com?user=MiroslavGit&theme=tokyonight&hide_border=false" />
 
